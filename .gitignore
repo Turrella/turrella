@@ -1,0 +1,4 @@
+.package-lock.json
+.webpack.js
+.git
+node_modules
