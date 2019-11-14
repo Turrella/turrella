@@ -34,7 +34,7 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "url-loader": "^2.2.0"
   }
 }
