@@ -2775,8 +2775,8 @@ input[type='submit']:enabled:active, input[type='submit'].mui-active:enabled,
 
     vertical-align: top;
 
-    border-right: 1px solid #eee;
-    border-bottom: 1px solid #eee;
+    border-right: 0px solid #eee;
+    border-bottom: 0px solid #eee;
 }
 .mui-grid-view.mui-grid-9 .mui-table-view-cell.mui-active
 {
